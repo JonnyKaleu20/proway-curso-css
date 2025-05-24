@@ -1,0 +1,27 @@
+body {
+   background-color: blue;
+   margin-top: 0px;
+   margin-right: 0px;
+   margin-bottom: 0px;
+   margin-left: 0px;
+}
+
+div {
+   background-color: chartreuse
+}
+
+a {
+   text-decoration: none;
+   color: darkgreen;
+   display: inline-block;
+   padding-left: 10px;
+   padding-bottom: 10px;
+   padding-top: 10px;
+   padding-right:10px;
+
+
+ }
+  /*Quando o usuario passar com o mouse na teg a */
+  a:hover{
+   color:aliceblue
+}
